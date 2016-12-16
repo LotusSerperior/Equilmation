@@ -40,7 +40,7 @@ exports.BattlePokedex = {
 	      	species: "Equilmation-Shadow",
 	      	types: ["Ghost", "Normal"],
 		      baseStats: {hp: 90, atk: 90, def: 50, spa: 100, spd: 80, spe: 130},
-	      	abilities: {0: "Sneaky Stun"},
+	      	abilities: {0: "Cursed Entry"},
 	      	heightm: 1.9,
 	      	weightkg: 0.3,
 	      	color: "White"
