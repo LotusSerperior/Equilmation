@@ -39,7 +39,7 @@ exports.BattlePokedex = {
           num: 10091,
 	      	species: "Equilmation-Shadow",
 	      	types: ["Ghost", "Normal"],
-		      baseStats: {hp: 90, atk: 90, def: 50, spa: 90, spd: 80, spe:130},
+		      baseStats: {hp: 90, atk: 90, def: 50, spa: 100, spd: 80, spe: 130},
 	      	abilities: {0: "First Strike"},
 	      	heightm: 1.9,
 	      	weightkg: 0.3,
